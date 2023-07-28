@@ -25,4 +25,6 @@ edit the donor details , delete the donor
  Developers
 -It will display the details of the developers
 
+USER INTERFACES
+(https://github.com/eswarganesan/BloodBank-Java/assets/104221146/3108254a-0e19-46e2-a35a-3c6e61a6a8a7
 

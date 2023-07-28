@@ -31,7 +31,7 @@ edit the donor details , delete the donor
 
 2. Add new donor  - ![Add donar](https://github.com/eswarganesan/BloodBank-Java/assets/104221146/5399d0c5-8c98-4ee1-83fb-1199666cc34f)
 
-3. View Profile - ![view profile](https://github.com/eswarganesan/BloodBank-Java/assets/104221146/6ecefc8c-94ce-43c8-929b-7b20f83b1563)
+3. View Profile 
 
 4. About - ![about](https://github.com/eswarganesan/BloodBank-Java/assets/104221146/e493e507-21db-416b-b398-79206b81bbef)
 
